@@ -34,7 +34,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![parse2](https://user-images.githubusercontent.com/102488390/161365427-37948001-1d8d-4366-9006-4607ee2004a1.gif)
+![parseta](https://user-images.githubusercontent.com/102488390/161365611-beac92e3-f86c-48ae-bf23-789e4dc44641.gif)
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
